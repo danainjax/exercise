@@ -1,0 +1,1 @@
+Dom manipulation exercise from Mon Pod. Displaying memes from a const, looping thru , adding them to an element created.
